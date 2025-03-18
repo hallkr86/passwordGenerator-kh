@@ -11,9 +11,9 @@ This is a simple password generator. The application allows users to generate a 
  - Random password generation with lowercase, uppercase, numbers, and special characters.
 
  ## Technologies Used
- -HTML: Structure of the webpage.
- -CSS: Styling and layout.
- -JavaScript: Functionality and password generation.
+ - HTML: Structure of the webpage.
+ - CSS: Styling and layout.
+ - JavaScript: Functionality and password generation.
 
  ## Link
  Deployed link from github:
