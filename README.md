@@ -15,3 +15,4 @@ This is a simple password generator. The application allows users to generate a 
 
  ## Link
  Deployed link from github:
+ https://hallkr86.github.io/passwordGenerator-kh/
