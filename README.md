@@ -3,6 +3,8 @@
 ## Description
 This is a simple password generator. The application allows users to generate a random password based on their desired length. 
 
+![alt text](passwordgeneratorpic.png)
+
 ## Features
  - User-friendly interface with a "Generate Password" button.
  - Alerts prompt the user to specify the desired password length.
